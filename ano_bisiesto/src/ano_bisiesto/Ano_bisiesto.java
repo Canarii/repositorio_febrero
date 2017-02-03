@@ -8,7 +8,7 @@ package ano_bisiesto;
 import java.util.Scanner;
 /**
  *
- * @author Felix
+ * @author Felix Benitez Naranjo
  */
 public class Ano_bisiesto {
 
